@@ -19,7 +19,7 @@
     <span class="btn btn-success fileinput-button">
         <i class="glyphicon glyphicon-plus"></i>
         <span>Escolha as Fotos</span>
-        <input id="fileupload"  type="file" name="FilesPic" multiple data-url="salvar_foto.php">
+        <input id="fileupload"  type="file" name="FilesPic" multiple data-url="processa_upload.php">
     </span>
 
 <br>
